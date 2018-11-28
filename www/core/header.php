@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <meta charset="utf-8">
     <title>Bootstrap, from Twitter</title>
@@ -26,6 +26,7 @@
     <script src="bootstrap/js/jquery-3.3.1.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
+   
                                     
   </head>
 
@@ -39,12 +40,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">Project name</a>
+          <a class="brand" href="?">Gimi blog</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="#about">Registration</a></li>
+              <li class="active" ><a href="#">Login</a></li>
+              
             </ul>
           </div><!--/.nav-collapse -->
         </div>

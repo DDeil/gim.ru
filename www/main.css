@@ -1,0 +1,39 @@
+
+	.articleinfo{
+		text-align: right;
+	}
+	.coment_head{
+		margin-top:20px;
+	}
+	.coment_text{
+		padding-left:45px;
+		font-size:0.9em;
+	}
+	.datecom{
+		font-size:0.7em;
+		margin-right:10px;
+	}
+	.date{ 
+		font-size:0.7em;
+		margin-right:10px;
+	}
+	.author{
+	 	font-size:0.9em;
+		margin-right:10px;
+	}
+	.authorcom{
+		padding-left:30px;
+	  	font-size:1.2em;
+		margin-right:10px;
+	}
+	.text{
+		padding-top:5px;
+		padding-left:30px;
+	}
+	.privtext{
+		padding-left:20px;
+		margin-bottom: 40px;
+	}
+	.breaks{
+		font-size:12em;
+	}
